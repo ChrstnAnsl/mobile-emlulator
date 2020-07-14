@@ -20,4 +20,4 @@ $desiredCapabilities->setCapability(ChromeOptions::CAPABILITY, $options);
 //Set URL
 $host = 'http://localhost:4444/wd/hub';
 $driver = RemoteWebDriver::create($host, $desiredCapabilities);
-$driver->get('https://www.lamudi.com.ph');
+$driver->get('https://www.google.com');
