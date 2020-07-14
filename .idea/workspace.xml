@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fdeacc9-00a1-4db3-93d4-2b49da385a98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Proj" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/php-webdriver/webdriver" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Y3jMTdZHORBWpnQFUhATkvwafS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/behavioral-tests" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fdeacc9-00a1-4db3-93d4-2b49da385a98" name="Default Changelist" comment="" />
+      <created>1582178124038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582178124038</updated>
+      <workItem from="1582178125849" duration="11340000" />
+      <workItem from="1582247876115" duration="10829000" />
+      <workItem from="1582507490941" duration="19378000" />
+      <workItem from="1582536756912" duration="6574000" />
+      <workItem from="1582590997832" duration="547000" />
+      <workItem from="1582591560952" duration="6625000" />
+      <workItem from="1582691470975" duration="92000" />
+      <workItem from="1582694576241" duration="292000" />
+      <workItem from="1582695428518" duration="1778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2059" y="297" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1582179126980">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2059" y="297" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582179126980" />
+    <state x="529" y="336" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582691112503">
+      <screen x="0" y="132" width="1366" height="741" />
+    </state>
+    <state x="568" y="316" width="374" height="270" key="FileChooserDialogImpl/0.105.1366.768/1366.0.1920.1080@0.105.1366.768" timestamp="1582541459718" />
+    <state x="529" y="336" width="374" height="333" key="FileChooserDialogImpl/0.132.1366.741/1366.0.1920.1080@0.132.1366.741" timestamp="1582691112503" />
+    <state x="2109" y="297" width="424" height="484" key="FileChooserDialogImpl/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582179048325" />
+    <state x="1366" y="393" width="424" height="484" key="FileChooserDialogImpl/0.132.3286.948@0.132.3286.948" timestamp="1582683860865" />
+    <state x="875" y="333" width="481" height="373" key="NewPhpClassDialog" timestamp="1582589894173">
+      <screen x="0" y="105" width="1366" height="768" />
+    </state>
+    <state x="875" y="333" key="NewPhpClassDialog/0.105.1366.768/1366.0.1920.1080@0.105.1366.768" timestamp="1582589894173" />
+    <state x="875" y="352" width="481" height="373" key="NewPhpClassDialog/0.132.1366.741/1366.0.1920.1080@0.132.1366.741" timestamp="1582187422670" />
+    <state x="2121" y="464" width="399" height="149" key="NewPhpFileDialog" timestamp="1582178209572">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2121" y="464" width="399" height="149" key="NewPhpFileDialog/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582178209572" />
+    <state x="1815" y="174" key="SettingsEditor" timestamp="1582178135361">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1815" y="174" key="SettingsEditor/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582178135361" />
+    <state x="438" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1582694577658">
+      <screen x="0" y="132" width="1366" height="741" />
+    </state>
+    <state x="438" y="383" key="com.intellij.ide.util.TipDialog/0.132.1366.741/1366.0.1920.1080@0.132.1366.741" timestamp="1582694577658" />
+    <state x="1982" y="366" key="com.intellij.ide.util.TipDialog/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582536759304" />
+    <state x="438" y="278" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582591561202" />
+    <state x="444" y="196" key="run.anything.popup" timestamp="1582508091519">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="1990" y="246" key="run.anything.popup/0.132.1366.741/1366.0.1920.1080@0.132.1366.741" timestamp="1582187011616" />
+    <state x="444" y="196" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1582508091519" />
+    <state x="1895" y="340" width="1151" height="596" key="search.everywhere.popup" timestamp="1582265883950">
+      <screen x="0" y="132" width="3286" height="948" />
+    </state>
+    <state x="1989" y="237" width="672" height="678" key="search.everywhere.popup/0.132.1366.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1582179108785" />
+    <state x="1895" y="340" width="1151" height="596" key="search.everywhere.popup/0.132.3286.948@0.132.3286.948" timestamp="1582265883950" />
+  </component>
+</project>

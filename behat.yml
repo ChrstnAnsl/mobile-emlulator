@@ -1,0 +1,41 @@
+default:
+  extensions:
+    Behat\MinkExtension:
+      base_url: "https://lamudi.com.ph/"
+      default_session: selenium_firefox_session
+      goutte: ~
+      sessions:
+        goutte_session:
+          goutte:
+            guzzle_parameters:
+              ssl.certificate_authority: false
+        selenium_chrome_mobile_session:
+          selenium2:
+            browser: chrome
+            capabilities:
+              extra_capabilities:
+                chromeOptions:
+                  mobileEmulation:
+                    deviceName: "Google Nexus 5"
+        selenium_chrome_session:
+          selenium2:
+            browser: chrome
+            capabilities:
+              extra_capabilities:
+                chromeOptions:
+                  args:
+                    - "--start-maximized"
+                    - "--test-type"
+        selenium_firefox_session:
+          selenium2:
+            browser: firefox
+  suites:
+    my_suite:
+      contexts:
+        - FeatureContext
+        - Behat\MinkExtension\Context\MinkContext
+
+chrome_mobile:
+  extensions:
+    Behat\MinkExtension:
+      default_session: selenium_chrome_mobile_session
